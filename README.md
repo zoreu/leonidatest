@@ -2,7 +2,7 @@
 
 Leonida - natively on Windows
 
-## Requirements
+## Requirements for the repository
 
 Git
 
@@ -10,7 +10,7 @@ nodejs
 
 nostr-git
 
-## instalation nostr-git
+## installation nostr-git
 
 ```bash
 npm install -g nostr-git
