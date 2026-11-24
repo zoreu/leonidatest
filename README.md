@@ -38,6 +38,6 @@ ngit push
 
 ## Sharing repository
 
-Use Discord as a channel to promote the repository, given that "pure" Nostr lacks the collaborative features found on GitHub.
+Use Discord as a channel to promote your repository, given that "pure" Nostr lacks the collaborative features found on GitHub.
 
 
